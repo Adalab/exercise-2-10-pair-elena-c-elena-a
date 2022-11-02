@@ -1,3 +1,11 @@
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+}
+
 .head {
     background: #fc0;
     height: 100px;
